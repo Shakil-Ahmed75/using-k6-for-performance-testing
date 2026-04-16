@@ -2,6 +2,10 @@
 
 > Performance testing suite for API backend
 
+## Project Video 
+
+[Watch the full video](https://drive.google.com/file/d/1OUtEMVd0TxaHnVbWnMOZpPVew09zsvCP/view?usp=sharing)
+
 ## Test Scenarios
 
 | Test | Description | Users | Duration |
